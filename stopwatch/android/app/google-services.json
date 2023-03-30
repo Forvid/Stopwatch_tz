@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240795230709",
+    "project_id": "o2byan",
+    "storage_bucket": "o2byan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240795230709:android:f18ab76b2b6ee058b840bc",
+        "android_client_info": {
+          "package_name": "trales.fonem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240795230709-igp83c2n13dq6f30th98qai0qg9kkg16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdBl3UHtszenqHrmLN0plxhhxOWKkRH0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240795230709-igp83c2n13dq6f30th98qai0qg9kkg16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
